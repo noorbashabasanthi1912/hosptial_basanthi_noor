@@ -1,0 +1,10 @@
+{
+	"name": "hospitaladls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://hospitalstoragegupta.dfs.core.windows.net/"
+		}
+	}
+}
