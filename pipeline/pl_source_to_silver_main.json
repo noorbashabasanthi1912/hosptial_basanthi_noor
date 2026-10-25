@@ -61,7 +61,10 @@
 							"userProperties": [],
 							"typeProperties": {
 								"variableName": "test",
-								"value": "ture"
+								"value": {
+									"value": "@item().table_id",
+									"type": "Expression"
+								}
 							}
 						}
 					]
@@ -76,7 +79,7 @@
 		},
 		"variables": {
 			"test": {
-				"type": "String"
+				"type": "Integer"
 			}
 		},
 		"annotations": []
