@@ -19,6 +19,15 @@
 		},
 		"hospitaladls_properties_typeProperties_url": {
 			"value": "https://hospitalstoragegupta.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "hospitalservernoor.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "hospital"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "hospital"
 		}
 	}
 }
