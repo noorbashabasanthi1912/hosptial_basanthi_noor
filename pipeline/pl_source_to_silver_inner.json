@@ -49,10 +49,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"variableName": "current_timestamp",
-					"value": {
-						"value": "@formatDateTime(utcNow(),'yyyy-MM-dd_hh-'",
-						"type": "Expression"
-					}
+					"value": ""
 				}
 			}
 		],
