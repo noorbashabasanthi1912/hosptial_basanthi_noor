@@ -8,6 +8,15 @@
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://hospitalgupta.vault.azure.net/"
 		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "hospitalservernoor.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "hospital"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "hospital"
+		},
 		"PostgreSql1_properties_typeProperties_server": {
 			"value": "ep-odd-term-b3fz51te-pooler.c-4.ap-southeast-1.aws.neon.tech"
 		},
@@ -19,15 +28,6 @@
 		},
 		"hospitaladls_properties_typeProperties_url": {
 			"value": "https://hospitalstoragegupta.dfs.core.windows.net/"
-		},
-		"AzureSqlDatabase1_properties_typeProperties_server": {
-			"value": "hospitalservernoor.database.windows.net"
-		},
-		"AzureSqlDatabase1_properties_typeProperties_database": {
-			"value": "hospital"
-		},
-		"AzureSqlDatabase1_properties_typeProperties_userName": {
-			"value": "hospital"
 		}
 	}
 }
