@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adf-hospital-gupta"
 		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "1026-083148-abyzaeua"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://hospitalgupta.vault.azure.net/"
 		},
